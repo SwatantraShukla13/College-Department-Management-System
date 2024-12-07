@@ -1,0 +1,44 @@
+.wrapper
+{ 	padding-left:0%;
+	height:636px;
+	width: 1338px;
+	/*background-color: red;*/
+}
+.head 
+{	
+	padding-right: 10px;
+	margin:0%;
+	background-color:#2017EB;
+	color: #F32841;
+	font-size: 40px;
+	text-align:right ;
+	width:1338px;
+	height:120px;
+	
+}
+
+.main-menu-11:hover{
+	background-color: #5575F3;
+	width: 180px;
+}
+.sub-menu-11:hover{
+	background-color: #5575F3;
+	width:180px;
+}
+.dd1{
+	position:relative;
+	display:inline-block;
+	font-size: 20px;
+	
+}
+.dd-content-1{
+	display:none;
+	position:absolute;
+	background-color: none;
+}
+.dd1:hover .dd-content-1{
+	display:block;
+}
+li a{
+	text-decoration: none;
+}

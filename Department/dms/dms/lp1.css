@@ -1,0 +1,32 @@
+.new
+{
+	width: 1000px;
+	height: 450px;
+	padding-right: 50px;
+	border: 5px solid #6B98DF;
+	margin: 150px;
+	background-color: aqua;
+}
+h1{
+	color: red;
+	text-align: center;
+	font-size: 70px;
+}
+input
+{
+	font-size:17px;
+}
+select
+{
+	width:180px;
+	font-size: 17px;
+}
+label
+{
+	font-size: 18px;
+}
+
+
+
+		
+

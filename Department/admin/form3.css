@@ -1,0 +1,20 @@
+.form3{
+	width: 820px;
+	height: 500px;
+	padding-right: 200px;
+	margin: 70px;
+	margin-left: 100px;
+	background-color: #D0EEF9;
+	border: 5px solid #0D0B0B; 
+}
+h1{
+	font-size: 50px;
+	color: #A03032;
+	margin-left: 200px;
+}
+input{
+		font-size: 18px;
+}
+span{
+		font-size: 22px;
+}

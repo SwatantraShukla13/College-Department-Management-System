@@ -1,0 +1,21 @@
+.form1{
+		width: 820px;
+		height: 920px;
+		padding-right: 200px;
+		margin: 70px;
+		margin-left: 100px;
+		background-color: #D0EEF9;
+		border: 5px solid #0D0B0B; 
+}
+span{
+	font-size: 22px;
+}
+input{
+	font-size: 18px;
+}
+h1{
+	margin-top: auto;
+	margin-left: 170px;
+	font-size: 50px;
+	color: #A03032
+}
